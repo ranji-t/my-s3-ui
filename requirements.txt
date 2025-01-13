@@ -1,6 +1,7 @@
 boto3==1.35.96
+google-generativeai==0.8.3
 ipykernel==6.29.5
-marimo==0.10.10
+marimo[sql]==0.10.12
 polars==1.19.0
 python-dotenv==1.0.1
 streamlit==1.41.1
